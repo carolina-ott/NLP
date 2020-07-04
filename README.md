@@ -1,5 +1,5 @@
-## Text Analytics and NLP
-# Compare Text Analytics, NLP and Text Mining
+# Text Analytics and NLP
+## Compare Text Analytics, NLP and Text Mining
 
     Text Analysis Operations using NLTK  
     - Tokenization  
